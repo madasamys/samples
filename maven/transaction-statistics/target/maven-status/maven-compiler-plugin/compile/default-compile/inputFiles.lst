@@ -1,8 +1,0 @@
-/madasamy/projects/examples/maven/transaction-statistics/src/main/java/org/transaction/statistics/service/TransactionService.java
-/madasamy/projects/examples/maven/transaction-statistics/src/main/java/org/transaction/statistics/domain/Transaction.java
-/madasamy/projects/examples/maven/transaction-statistics/src/main/java/org/transaction/statistics/domain/TransactionStatistics.java
-/madasamy/projects/examples/maven/transaction-statistics/src/main/java/org/transaction/statistics/api/TransactionApiController.java
-/madasamy/projects/examples/maven/transaction-statistics/src/main/java/org/transaction/statistics/page/HomeController.java
-/madasamy/projects/examples/maven/transaction-statistics/src/main/java/org/transaction/statistics/utils/DateUtils.java
-/madasamy/projects/examples/maven/transaction-statistics/src/main/java/org/transaction/statistics/service/ITransactionService.java
-/madasamy/projects/examples/maven/transaction-statistics/src/main/java/org/transaction/statistics/App.java
